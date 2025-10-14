@@ -1,0 +1,8 @@
+/**
+ *  estilos.css
+ *
+ *  Este archivo carga todos los estilos personalizados de la app.
+ *  Se personalizan todos los controles, los colores, y las fuentes utilizadas.
+ *  Las reglas se colocan en orden de importancia, por ejemplo, de los estilos más
+ *  generales (*, html, body) a los más particulares (span, li, .text-muted, etc).
+ */
